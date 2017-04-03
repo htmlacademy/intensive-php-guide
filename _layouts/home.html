@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Учебник по PHP</h1>
+
+  <ul>
+    <li><a href="{{ site.baseurl }}{% link guide/01/content_01.md %}">Раздел 1</a></li>
+    <li><a href="{{ site.baseurl }}{% link guide/02/content_02.md %}">Раздел 2</a></li>
+    <li><a href="{{ site.baseurl }}{% link guide/03/content_03.md %}">Раздел 3</a></li>
+    <li><a href="{{ site.baseurl }}{% link guide/04/content_04.md %}">Раздел 4</a></li>
+    <li><a href="{{ site.baseurl }}{% link guide/05/content_05.md %}">Раздел 5</a></li>
+    <li><a href="{{ site.baseurl }}{% link guide/06/content_06.md %}">Раздел 6</a></li>
+    <li><a href="{{ site.baseurl }}{% link guide/07/content_07.md %}">Раздел 7</a></li>
+  </ul>
+
+  {{ content }}
+
+  <!-- <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul> -->
+
+</div>
