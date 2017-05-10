@@ -1,4 +1,8 @@
-# Практика работы с MySQL 
+---
+layout: page
+title: "Раздел 6 - Практика работы с MySQL"
+permalink: content-06
+---
 
 ## Поддержка MySQL в PHP
 PHP имеет превосходную поддержку MySQL.  
