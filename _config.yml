@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PHP-guide
+title: Учебник по PHP
 email: mail@htmlacademy.ru
 description: > # this means to ignore newlines until "baseurl:"
   Учебник по PHP от HTML Academy.
@@ -28,5 +28,7 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - .idea
 
 theme: minima
