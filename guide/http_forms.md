@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Раздел 3 - HTML/HTTP/Формы"
-permalink: content-03
+title: "Протокол HTTP и Формы"
+permalink: http_forms
 ---
 
 ## Протокол HTTP

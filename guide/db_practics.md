@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Раздел 6 - Практика работы с MySQL"
-permalink: content-06
+title: "Практика работы с MySQL"
+permalink: db_practics
 ---
 
 ## Поддержка MySQL в PHP
