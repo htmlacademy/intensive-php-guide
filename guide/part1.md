@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Знакомство с языком. Часть 1"
-permalink: part1
+permalink: part1.html
 ---
 
 ## Знакомство с языком

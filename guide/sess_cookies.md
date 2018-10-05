@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Идентификация пользователя на сайте"
-permalink: sess_cookies
+permalink: sess_cookies.html
 ---
 
 ## Особенности работы протокола HTTP

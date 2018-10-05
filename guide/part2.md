@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Знакомство с языком. Часть 2"
-permalink: part2
+permalink: part2.html
 ---
 
 ## Продолжаем изучать синтаксис языка

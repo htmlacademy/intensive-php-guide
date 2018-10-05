@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Реляционные базы данных: теория"
-permalink: db_theory
+permalink: db_theory.html
 ---
 
 ## Что такое базы данных (БД) и зачем они нужны

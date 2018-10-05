@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Протокол HTTP и Формы"
-permalink: http_forms
+permalink: http_forms.html
 ---
 
 ## Протокол HTTP
