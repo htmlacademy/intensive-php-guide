@@ -201,13 +201,13 @@ __Блок__ - это шаблон очень небольшого блока с
 $items_list = []; 
  
 // HTML код главной страницы 
-$page_content = renderTemplate('imain.php', ['items' => $items_list]); 
+$page_content = renderTemplate('main.php', ['items' => $items_list]); 
  
 // окончательный HTML код 
 $layout_content = renderTemplate('layout.php',  
 ['content' => $page_content, 'title' => 'Дневник наблюдений за погодой']); 
 
-// вывод на экрн итоговой страницы 
+// вывод на экран итоговой страницы 
 print($layout_content);
 ```
 
