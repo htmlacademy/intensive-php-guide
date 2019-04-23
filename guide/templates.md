@@ -207,7 +207,7 @@ $page_content = renderTemplate('main.php', ['items' => $items_list]); 
 $layout_content = renderTemplate('layout.php',  
 ['content' => $page_content, 'title' => 'Дневник наблюдений за погодой']); 
 
-// вывод на экрн итоговой страницы 
+// вывод на экран итоговой страницы 
 print($layout_content);
 ```
 
